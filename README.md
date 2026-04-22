@@ -51,7 +51,7 @@ Given a review, the model predicts which **aspect** is being discussed and the *
 
 ## Project Structure
 
-```bash
+```text
 viet-restaurant-absa/
 ├── data/
 │   ├── raw/
